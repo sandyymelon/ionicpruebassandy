@@ -2,19 +2,12 @@
 {
 	"userId": 1,
 	"id": 1,
-	"title": "titulo1",
-	"completed": false
 },
 {
 	"userId": 1,
 	"id": 2,
-	"title": "titulo2",
-	"completed": false
 },
 {
 	"userId": 1,
 	"id": 3,
-	"title": "titulo3",
-	"completed": true
-}
 ]
